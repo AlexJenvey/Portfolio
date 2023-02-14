@@ -1,0 +1,99 @@
+body {
+    background-color: rgb(92, 218, 180) !important;
+}
+
+.intro {text-align: center;
+padding: 1.5%;}
+
+.imgchange {
+    width: 250px;
+    height: 60vh;
+    object-fit: cover;
+}
+
+.Title {
+    color: #212529;
+    background-color: rgb(27, 209, 154);
+    text-align: center;
+    padding-bottom: 2.5%;
+    padding-top: 2.5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.intro {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.container2 {
+    overflow: auto;
+
+}
+
+.form-control {
+    width: 50%;
+    margin: auto;
+}
+
+.form-label {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+form {text-align: center;
+margin-top: 100px;}
+
+
+.box {
+    height: 40vh;
+    background-color: lightblue;
+
+}
+
+
+.card-img-top {
+    height: 100px;
+    object-fit: cover;
+}
+
+.cardwrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+.card-text {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card-title {
+    padding: 10px;
+}
+
+.cardBtn {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto !important
+}
+
+.footer {
+    height: 10%;
+}
+
+
+
+.carousel-indicators {color: rgb(27, 209, 154);}
+
+
+
+.carousel-caption {background-color: rgb(27, 209, 154)!important;
+width: 200px;
+border-radius: 4%;
+text-align: center;
+color: #212529;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+border:2px solid #212529;}
+
+button {color: rgb(27, 209, 154);}
+
+footer {color: #212529;}
